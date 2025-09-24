@@ -10,5 +10,9 @@
 
 **Takeaways**  
 กลยุทธ์เลือกสินค้าให้เหมาะกับทุน ช่องทางขาย การหมุนสต็อก
+## Source
+- (https://www.kaidee.com/c103-collection)
+
+
 
 📄 **รายงาน:** [Second-Hand.pdf](./Second-Hand.pdf)
