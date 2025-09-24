@@ -11,8 +11,9 @@
 **What I Learned**  
 เลือกสถิติให้เหมาะกับการแจกแจง, ตีความผลลัพธ์อย่างระมัดระวัง
 ## Dataset
-
-- Sample file: [Billionaires Statistics Dataset.csv](./Billionaires Statistics Dataset.csv) 
+- Source file: [billionaires.xlsx](./billionaires.xlsx) — Dataset สถิติของมหาเศรษฐี (อายุ, รายได้, เพศ, ประเภทกิจการ ฯลฯ)
+- Note: ใช้ในการทำ Descriptive Stats, Nonparametric Tests, Correlation, Regression
+ 
 
 
 📄 **รายงาน:** [bill-stat.pdf](./bill-stat.pdf)
