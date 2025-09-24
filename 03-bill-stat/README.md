@@ -10,5 +10,9 @@
 
 **What I Learned**  
 เลือกสถิติให้เหมาะกับการแจกแจง, ตีความผลลัพธ์อย่างระมัดระวัง
+## Dataset
+
+- Sample file: [Billionaires Statistics Dataset.csv](./Billionaires Statistics Dataset.csv) 
+
 
 📄 **รายงาน:** [bill-stat.pdf](./bill-stat.pdf)
