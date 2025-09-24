@@ -8,9 +8,10 @@
 - Linearity, Multicollinearity (VIF)  
 - เลือกตัวแบบด้วย R², adj-R², Mallows’ Cp
 
-**Dataset**
-- Source: [Kaggle - Fastfood Nutrition](https://www.kaggle.com/datasets/ulrikthygepedersen/fastfood-nutrition)
-- (ถ้าจะใส่ตัวอย่างไฟล์) `fastfood_sample.csv` — เวอร์ชันย่อเพื่อสาธิต
+## Dataset
+- Source: [Kaggle — Fastfood Nutrition](https://www.kaggle.com/datasets/ulrikthygepedersen/fastfood-nutrition)
+- Sample file: [fastfood.csv](./fastfood.csv) 
+
 
 **Outputs**  
 - สมการ MLR + การตีความเชิงสัญญะ (ตัวเลขละเอียดอยู่ในไฟล์รายงาน)
