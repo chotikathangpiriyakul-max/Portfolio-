@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Data (บล็อก csv/xlsx ยกเว้น sample)
+*.csv
+*.xlsx
+*.sav
+*.parquet
+data/
+
+!04-eda-lead-scoring/lead_sample.csv
+!05-fastfood-nutrition/fastfood_sample.csv
