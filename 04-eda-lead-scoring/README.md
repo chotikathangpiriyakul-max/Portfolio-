@@ -8,8 +8,7 @@
 - วิเคราะห์ distribution และทำ visualization (boxplot, histogram)  
 - หาค่า Conversion rate ตาม Channel, Origin, Occupation, City
 
-**Result**  
-พบว่าเวลาที่ใช้บนเว็บไซต์และบางช่องทางมีผลต่อการ Converted  
+**Result**   
 ได้อินไซต์ที่ช่วยปรับปรุงกลยุทธ์การตลาดและการหาลูกค้า
 
 ## Dataset
