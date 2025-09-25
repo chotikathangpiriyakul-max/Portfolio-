@@ -1,7 +1,49 @@
-# Portfolio: Data Analytics, Statistics & Business Projects
+# 📊 Portfolio: Data Analytics, Statistics & Business Projects
 
-สวัสดีครับ ผม โชติกะ ตั้งพิริยะกุล (KMITL, Applied Statistics & Data Analytics)  
-นี่คือพอร์ตโฟลิโอที่รวบรวมงานด้าน Data Analytics / Statistics / Business Project ที่คัดมา 5 โปรเจกต์
+สวัสดีครับ ผม นายโชติกะ ตั้งพิริยะกุล  
+นักศึกษาปี 4 สาขาสถิติประยุกต์และการวิเคราะห์ข้อมูล (KMITL)  
+มีความสนใจด้านสถิติศาสตร์และการวิเคราะห์ข้อมูลเชิงธุรกิจ พร้อมฝึกงานสหกิจในตำแหน่ง Data Analyst / Data Scientist / Business Analyst  
+
+## 👤 About Me
+- 🎓 Year 4 Applied Statistics & Data Analytics (KMITL)  
+- 📊 GPA: 3.44  
+- 📍 Bangkok (Onsite/Hybrid)  
+- 🗓️ Co-op period: Dec 2025 – Mar 2026 or Jan – Apr 2026  
+
+---
+
+## 🛠 Skills
+- **Tools:** Excel · SQL · Python · R · Power BI · SPSS · Minitab  
+- **Statistics:** Hypothesis testing · ANOVA · Regression · Sampling · Business trend analysis · Machine learning  
+- **Soft Skills:** Communication · Teamwork · Adaptability · Leadership · Resilience  
+- **Languages:** English CEFR B1+ (Exit Exam Passed)  
+
+---
+
+## 📄 Resume
+[Download Resume (PDF)](./resume/Resume_Chotika.pdf)
+
+---
+
+## 📜 Certificates
+- **English Discoveries Placement Test (CEFR B1+ Intermediate)**  
+  - King Mongkut’s Institute of Technology Ladkrabang  
+  - Issued: Feb 17, 2025 · Valid until Feb 17, 2027  
+  - [View Certificate (PDF)](./certificates/ReportCard_No341.pdf)
+
+---
+
+## 📑 Transcript
+- **Bachelor of Science, Applied Statistics and Data Analytics (KMITL)**  
+- GPA: 3.44 (up to Mar 2025)  
+- [View Transcript (PDF)](./transcript/Transcript_Chotika.pdf)
+
+---
+
+## 📬 Contact
+- Tel: 099-628-2701  
+- Email: chotika.thangpiriyakul@gmail.com  
+
 
 ## 📂 Projects
 ### 1) 🍵 Bubble Tea Shop — Database & Business Model
