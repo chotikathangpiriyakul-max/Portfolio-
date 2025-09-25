@@ -1,12 +1,17 @@
 # Fastfood Nutrition — Multiple Linear Regression
 
 **Goal**  
-วิเคราะห์ปัจจัยที่มีผลต่อแคลอรี (คอเลสเตอรอล โซเดียม คาร์โบไฮเดรต โปรตีน) ด้วย MLR
+วิเคราะห์ปัจจัยที่มีผลต่อปริมาณแคลอรีของอาหารฟาสต์ฟู้ด
 
-**Model Checks**  
-- Normality / Independence / Equality of Error  
-- Linearity, Multicollinearity (VIF)  
-- เลือกตัวแบบด้วย R², adj-R², Mallows’ Cp
+**What I Did**  
+- ใช้ Multiple Linear Regression (MLR)  
+- ตรวจสมมติฐาน: Normality, Independence, Equality of error  
+- ตรวจ multicollinearity ด้วย VIF  
+- เลือกโมเดลที่เหมาะสมด้วย R², Adj-R², Mallows’ Cp
+
+**Result**  
+ได้สมการถดถอยที่ตีความได้ว่า คาร์โบไฮเดรต โปรตีน และคอเลสเตอรอล มีผลต่อแคลอรีอย่างมีนัยสำคัญ  
+ผลการวิเคราะห์ช่วยให้เข้าใจโภชนาการของอาหารและปัจจัยที่ทำให้แคลอรีสูง
 
 ## Dataset
 - Source: [Kaggle — Fastfood Nutrition](https://www.kaggle.com/datasets/ulrikthygepedersen/fastfood-nutrition)
